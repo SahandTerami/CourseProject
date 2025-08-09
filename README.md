@@ -10,10 +10,7 @@ This repository contains projects from the Modern Control 1 course.
 - `Project 4/` – Codes and description for the project of 'Modeling and Digital Control of a Quarter-Car Suspension Vibration System'
 - `README.md` – You’re here!
 
-## 🎯 Purpose
-
-This repository provides partially implemented code to help you get started with each assignment.  
-Within each notebook, you'll find `TODO` sections that guide you through the required implementations. These are designed to support your understanding of the concepts taught in class.
+## 🎯 Purposes
 
 - `Project 1:` – The purpose of this project is to simulate both the nonlinear open-loop system and its linearized equivalent. Additionally, the project analyzes the controllability and observability of the linearized system. It also involves the design and implementation of a state feedback controller and an observer in continuous time.
 
@@ -25,7 +22,7 @@ Within each notebook, you'll find `TODO` sections that guide you through the req
 
 ## 🧠 Technical Notes
 
-- All code is written in **MATLAB**.
+- All code is written in **MATLAB/Simulink**.
 
 
 ## 🛠️ Project 1
