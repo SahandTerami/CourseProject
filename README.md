@@ -31,5 +31,16 @@ Within each notebook, you'll find `TODO` sections that guide you through the req
 ## 🛠️ Project 1
 Description: 
 
-Consider a fluid system consisting of two tanks with two input flow rates \( u_1 = q_{1f}(t) \) and \( u_2 = q_{2f}(t) \), and outputs \( y_1 = q_1(t) \) and \( y_2 = q_2(t) \), as illustrated in the figure below. The parameter values for this system are provided in the referenced source.
+Consider a fluid system consisting of two tanks with two input flow rates \( u_1 = q_{1f}(t) \) and \( u_2 = q_{2f}(t) \), and outputs \( y_1 = q_1(t) \) and \( y_2 = q_2(t) \), as illustrated in the figure below.
+
+<img width="346" height="189" alt="image" src="https://github.com/user-attachments/assets/457a0ad2-6736-47d9-95db-781fe6f4ab15" />
+
+- `a:` Linearize the nonlinear system equations around the equilibrium point and derive the linearized state-space equations.
+- `b:` Obtain the transfer function matrices of the linearized system.
+- `c:` Apply step, sinusoidal, and impulse inputs to the nonlinear system, compute and plot the system’s response. Then repeat the same for the linearized system and compare the results.
+- `d:` For the linearized system, analyze the controllability and observability.
+- `e:` If it is possible to design a state feedback controller and observer for the linearized system, design and implement the closed-loop control system along with the state estimator.
+- `f:` Investigate the effect of parameter variations on the designed control system.
+- `g:` Investigate the effect of measurement noise on the output of the designed control system.
+
 
