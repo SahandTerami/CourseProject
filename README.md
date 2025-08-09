@@ -15,13 +15,13 @@ This repository contains projects from the Modern Control 1 course.
 This repository provides partially implemented code to help you get started with each assignment.  
 Within each notebook, you'll find `TODO` sections that guide you through the required implementations. These are designed to support your understanding of the concepts taught in class.
 
-- `Project 1/` – The purpose of this project is to simulate both the nonlinear open-loop system and its linearized equivalent, as presented in the reference paper. Additionally, the project analyzes the controllability and observability of the linearized system. It also involves the design and implementation of a state feedback controller and an observer.
+- `Project 1:` – The purpose of this project is to simulate both the nonlinear open-loop system and its linearized equivalent, as presented in the reference paper. Additionally, the project analyzes the controllability and observability of the linearized system. It also involves the design and implementation of a state feedback controller and an observer.
 
-- `Project 2/` – The purpose of this project is to simulate the open-loop dynamics of a Quarter-Car Suspension Vibration System. Additionally, various controllers will be designed for the system. In the advanced control approach, a state observer (SVFC) along with classical full-state feedback controllers—such as PID, PI, or P action—will be used to estimate the state variables.
+- `Project 2:` – The purpose of this project is to simulate the open-loop dynamics of a Quarter-Car Suspension Vibration System. Additionally, various controllers will be designed for the system. In the advanced control approach, a state observer (SVFC) along with classical full-state feedback controllers—such as PID, PI, or P action—will be used to estimate the state variables.
 
-- `Project 3/` – The purpose of this system is to simulate the open-loop behavior and control the vehicle’s lateral dynamics in continuous time using the steering angle as the input.
+- `Project 3:` – The purpose of this system is to simulate the open-loop behavior and control the vehicle’s lateral dynamics in continuous time using the steering angle as the input.
 
-- `Project 4/` – The purpose of this system is to simulate the open-loop behavior and control the vehicle’s lateral dynamics in discrete time using the steering angle as the input.
+- `Project 4:` – The purpose of this system is to simulate the open-loop behavior and control the vehicle’s lateral dynamics in discrete time using the steering angle as the input.
 
 ## 🧠 Technical Notes
 
@@ -29,3 +29,7 @@ Within each notebook, you'll find `TODO` sections that guide you through the req
 
 
 ## 🛠️ Project 1
+Description: 
+
+Consider a fluid system consisting of two tanks with two input flow rates \( u_1 = q_{1f}(t) \) and \( u_2 = q_{2f}(t) \), and outputs \( y_1 = q_1(t) \) and \( y_2 = q_2(t) \), as illustrated in the figure below. The parameter values for this system are provided in the referenced source.
+
