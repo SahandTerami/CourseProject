@@ -26,7 +26,7 @@ This repository contains projects from the Modern Control 1 course.
 
 
 ## 🛠️ Project 1
-Description: 
+**Description:** 
 
 Consider a fluid system consisting of two tanks with two input flow rates \( u_1 = q_{1f}(t) \) and \( u_2 = q_{2f}(t) \), and outputs \( y_1 = q_1(t) \) and \( y_2 = q_2(t) \), as illustrated in the figure below.
 
@@ -41,7 +41,7 @@ Consider a fluid system consisting of two tanks with two input flow rates \( u_1
 - `g:` Investigate the effect of measurement noise on the output of the designed control system.
 
 ## 🛠️ Project 2
-Description: 
+**Description:**  
 
 This system models the quarter-car vibration as shown in the figure. The input to the system is the force U(t), and the output is the displacement 𝑥1(𝑡).
 
@@ -54,7 +54,7 @@ This system models the quarter-car vibration as shown in the figure. The input t
 - `e:` Design a continuous-time full-state observer to estimate the system’s state variables and demonstrate that the estimation performs correctly.
 
 ## 🛠️ Project 3
-Description: 
+**Description:** 
 
 This project aims to investigate the lateral dynamics of a vehicle based on the bicycle model and design its control. The system model is illustrated in the figure below.
 
@@ -66,7 +66,7 @@ This project aims to investigate the lateral dynamics of a vehicle based on the 
 - `d:` Assume that in the above vehicle system model, there is a disturbance input and also measurement noise in the output signals. Investigate whether the designed control system still performs correctly under these conditions.
 
 ## 🛠️ Project 4
-Description: 
+**Description:**  
 
 Consider again the dynamic system from Project 1. In this section, we aim to discretize the continuous-time system with a sampling time 𝑇, and then design a finite-time settling digital controller (Finite Time Settling Control: FTSC) along with a two-stage finite-time settling observer that achieves zero steady-state estimation error.
 
